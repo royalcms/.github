@@ -1,10 +1,10 @@
-# royalcms-framework 👋
+# Royalcms PHP Components 👋
 
 > Royalcms组件库是由一个具有多年行业开发经验的iOS工程师设计、研发的一套适用于模块化开发的网站平台系统，您可以瞬间完成一个模块，展示您的创意。五层架构封装，让每一层都可以独立扩展，不受影响。
 
 **https://royalcms.cn**
 
-## Royalcms开发框架功能亮点：
+## Royalcms development framework feature
 
 1. 100%开源，没有任何加密文件
 
